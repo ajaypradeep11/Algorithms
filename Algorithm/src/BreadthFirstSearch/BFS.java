@@ -1,4 +1,4 @@
-package bfs;
+package BreadthFirstSearch;
 
 import java.util.LinkedList;
 import java.util.Queue;

@@ -1,4 +1,4 @@
-package bfswebcrawler;
+package BreadthFirstSearchWebCrawler;
 
 import java.util.Scanner;
 
